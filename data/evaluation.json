@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Who coordinates a SEV-1 incident and how often are status updates sent?",
+    "expected_title": "incident-response"
+  },
+  {
+    "query": "How long are database backups retained and who approves a restore?",
+    "expected_title": "backup-policy"
+  },
+  {
+    "query": "How do employees request access and when do elevated privileges expire?",
+    "expected_title": "access-policy"
+  }
+]
